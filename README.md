@@ -76,3 +76,6 @@ Then:
 
 <img width="270" height="600" alt="1788534023921" src="https://github.com/user-attachments/assets/efa1c47f-7dfd-45d8-915c-dd391dbfd201" />
 
+
+<img width="540" height="460" alt="Captura de ecrã 2026-09-04 162847" src="https://github.com/user-attachments/assets/4e9b67ca-2977-4f9e-83ea-1a7710c70f38" />
+
