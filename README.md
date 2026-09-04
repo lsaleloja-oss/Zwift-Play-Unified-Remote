@@ -73,5 +73,5 @@ Then:
 
 <img width="270" height="600" alt="Zwift Play Unified Remote - Main Controls" src="https://github.com/user-attachments/assets/a628fc24-6c81-49ee-a228-5581a3202ccb" />
 
-<img width="270" height="600" alt="Zwift Play Unified Remote - Camera Controls" src="https://github.com/user-attachments/assets/6d5668ee-70b6-426d-b39b-76aa3343f662" />
+<img width="270" height="600" alt="1788534023921" src="https://github.com/user-attachments/assets/efa1c47f-7dfd-45d8-915c-dd391dbfd201" />
 
