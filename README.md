@@ -1,7 +1,5 @@
-# Zwift-Play-Unified-Remote
-A custom Unified Remote remote for Zwift with steering, U-turn, camera control and Enter/Select.
 # Zwift Play – Unified Remote
-
+A custom Unified Remote remote for Zwift with steering, U-turn, camera control and Enter/Select.
 First public release of a custom **Zwift Play remote for Unified Remote**.
 
 ## Features
