@@ -15,6 +15,7 @@ First public release of a custom **Zwift Play remote for Unified Remote**.
 ### 1. Install Unified Remote Server on Windows
 
 Download and install **Unified Remote Server for Windows**
+
 https://github.com/lsaleloja-oss/Zwift-Play-Unified-Remote/releases/tag/v1.0.0
 
 1. Download the latest release files.
