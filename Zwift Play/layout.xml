@@ -1,0 +1,15 @@
+<layout>
+    <row>
+        <button text="←" ontap="left"/>
+        <button text="↑" ontap="up"/>
+        <button text="→" ontap="right"/>
+    </row>
+    <row>
+        <button text="↓" ontap="down"/>
+        <button text="✓" ontap="confirm"/>
+    </row>
+    <row>
+        <button text="◀" ontap="camera_prev"/>
+        <button text="▶" ontap="camera_next"/>
+    </row>
+</layout>
