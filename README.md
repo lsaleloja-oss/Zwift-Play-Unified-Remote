@@ -32,6 +32,7 @@ The folder structure should look like this:
 ```text
 Custom/
 └── Zwift Play/
+    ├── icons/
     ├── icon.png
     ├── icon_hires.png
     ├── layout.xml
