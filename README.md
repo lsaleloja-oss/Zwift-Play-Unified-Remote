@@ -54,6 +54,9 @@ http://localhost:9510/web/
 3. Open **Status**.
 4. Click **RESTART SERVER**.
 
+<img width="540" height="460" alt="Captura de ecrã 2026-09-04 162847" src="https://github.com/user-attachments/assets/4e9b67ca-2977-4f9e-83ea-1a7710c70f38" />
+
+
 ### 3. Install Unified Remote on Android
 
 Install the **Unified Remote Android app**:
@@ -75,7 +78,3 @@ Then:
 <img width="270" height="600" alt="Zwift Play Unified Remote - Main Controls" src="https://github.com/user-attachments/assets/a628fc24-6c81-49ee-a228-5581a3202ccb" />
 
 <img width="270" height="600" alt="1788534023921" src="https://github.com/user-attachments/assets/efa1c47f-7dfd-45d8-915c-dd391dbfd201" />
-
-
-<img width="540" height="460" alt="Captura de ecrã 2026-09-04 162847" src="https://github.com/user-attachments/assets/4e9b67ca-2977-4f9e-83ea-1a7710c70f38" />
-
