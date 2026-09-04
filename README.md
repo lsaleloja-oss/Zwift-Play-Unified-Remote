@@ -52,7 +52,7 @@ http://localhost:9510/web/
 ```
 
 3. Open **Status » Dashboard**.
-4. Click **RESTART SERVER**.
+4. Click the button below **RESTART SERVER**.
 
 <img width="540" height="460" alt="Captura de ecrã 2026-09-04 162847" src="https://github.com/user-attachments/assets/4e9b67ca-2977-4f9e-83ea-1a7710c70f38" />
 
