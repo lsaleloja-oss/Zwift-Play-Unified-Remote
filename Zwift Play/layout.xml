@@ -1,15 +1,17 @@
 <layout>
     <row>
-        <button text="←" ontap="left"/>
-        <button text="↑" ontap="up"/>
-        <button text="→" ontap="right"/>
+        <button image="icons/arrow-left.png" scale="fit" ontap="left"/>
+        <button image="icons/arrow-up.png" scale="fit" ontap="up"/>
+        <button image="icons/arrow-right.png" scale="fit" ontap="right"/>
     </row>
+
     <row>
-        <button text="↓" ontap="down"/>
-        <button text="✓" ontap="confirm"/>
+        <button image="icons/arrow-rotate-left.png" scale="fit" ontap="down"/>
+        <button image="icons/circle-check.png" scale="fit" ontap="confirm"/>
     </row>
+
     <row>
-        <button text="◀" ontap="camera_prev"/>
-        <button text="▶" ontap="camera_next"/>
+        <button image="icons/chevron-left.png" scale="fit" ontap="camera_prev"/>
+        <button image="icons/chevron-right.png" scale="fit" ontap="camera_next"/>
     </row>
 </layout>
