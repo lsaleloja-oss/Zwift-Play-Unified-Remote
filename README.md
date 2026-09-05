@@ -4,9 +4,11 @@ First public release of a custom **Zwift Play remote for Unified Remote**.
 
 ## Features
 
-* ← Left / Right / Up steering
-* ↓ U-turn
-* ✓ Enter / Select
+* ← Left / Right / Up - Funtion
+* ↓ U-turn / Brake / Down
+* ✓ Confime / Select
+* (+) Virtual Shifter Up
+* (-) Virtual Shifter Down
 * ◀ Previous camera view
 * ▶ Next camera view
 
