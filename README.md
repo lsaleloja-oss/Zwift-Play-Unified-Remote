@@ -6,7 +6,7 @@ First public release of a custom **Zwift Play remote for Unified Remote**.
 
 * ← Turn Left / Turn Right / Up Funtion
 * ↓ U-Turn / Brake / Down
-* ✓ Confime / Select
+* ✓ Confirm / Select
 * (+) Virtual Shifter Up
 * (-) Virtual Shifter Down
 * ◀ Previous camera view
