@@ -1,17 +1,28 @@
 <layout>
-    <row>
-        <button image="icons/arrow-left.png" scale="fit" ontap="left"/>
-        <button image="icons/arrow-up.png" scale="fit" ontap="up"/>
-        <button image="icons/arrow-right.png" scale="fit" ontap="right"/>
-    </row>
+<!-- Direção -->
+<row>
+<button image="icons/arrow-left.png" scale="fit" text="Esquerda" ontap="left"/>
+<button image="icons/arrow-up.png" scale="fit" text="Cima" ontap="up"/>
+<button image="icons/arrow-right.png" scale="fit" text="Direita" ontap="right"/>
+</row>
 
-    <row>
-        <button image="icons/arrow-rotate-left.png" scale="fit" ontap="down"/>
-        <button image="icons/circle-check.png" scale="fit" ontap="confirm"/>
-    </row>
+<!-- Down / U-turn + Confirmar -->
+<row>
+<button image="icons/arrow-rotate-left.png" scale="fit" text="U-Turn" ontap="down"/>
+<button image="icons/circle-check.png" scale="fit" text="Confirmar" ontap="confirm"/>
+</row>
 
-    <row>
-        <button image="icons/chevron-left.png" scale="fit" ontap="camera_prev"/>
-        <button image="icons/chevron-right.png" scale="fit" ontap="camera_next"/>
-    </row>
+<!-- Mudanças virtuais -->
+<row>
+<button image="icons/shift-down.png" scale="fit" text="Shift Down" ontap="shift_down"/>
+<button image="icons/shift-up.png" scale="fit" text="Shift Up" ontap="shift_up"/>
+</row>
+
+<!-- Câmaras -->
+<row>
+<button image="icons/chevron-left.png" scale="fit" text="Câmara -" ontap="camera_prev"/>
+<button image="icons/chevron-right.png" scale="fit" text="Câmara +" ontap="camera_next"/>
+</row>
 </layout>
+
+

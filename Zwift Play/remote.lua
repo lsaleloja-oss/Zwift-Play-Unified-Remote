@@ -34,6 +34,10 @@ actions.confirm = function ()
     kb.stroke("enter");
 end
 
+--@help Virtual Shifting
+actions.shift_down = function() kb.stroke("pagedown") end
+actions.shift_up = function() kb.stroke("pageup") end
+
 --@help Previous Camera
 actions.camera_prev = function ()
     camera = camera - 1;
