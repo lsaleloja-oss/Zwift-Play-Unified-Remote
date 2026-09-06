@@ -82,18 +82,34 @@ Then:
 <table align="center" border="0">
     <tr>
         <td>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p align="center">
+                <img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" />
+            </p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
         <td>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/b9335248-88ff-4027-b606-c5a1e1396549" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p align="center">
+                <img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/b9335248-88ff-4027-b606-c5a1e1396549" />
+            </p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
     </tr>
     <tr>
         <td>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="270" height="600" alt="w3" src="https://github.com/user-attachments/assets/05c676a8-013c-4aa5-bae9-af4f06abc28c" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p align="center">
+                <img width="270" height="600" alt="w3" src="https://github.com/user-attachments/assets/05c676a8-013c-4aa5-bae9-af4f06abc28c" />
+            </p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
         <td>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="270" height="600" alt="w4" src="https://github.com/user-attachments/assets/813d9b14-133b-469f-a0c4-651ff4080f4c" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p align="center">
+                <img width="270" height="600" alt="w4" src="https://github.com/user-attachments/assets/813d9b14-133b-469f-a0c4-651ff4080f4c" />
+            </p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
     </tr>
     <tr>
