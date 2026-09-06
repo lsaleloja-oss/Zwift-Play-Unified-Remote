@@ -79,9 +79,9 @@ Then:
 ## Screenshots
 
 
-<table align="center" cellspacing="100">
+<table align="center">
     <tr>
-        <td><img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" /></td>
+        <td style="padding: 100px;"><img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" /></td>
         <td><img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/b9335248-88ff-4027-b606-c5a1e1396549" /></td>
     </tr>
     <tr>
