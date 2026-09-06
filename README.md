@@ -56,7 +56,7 @@ http://localhost:9510/web/
 3. Open **Status » Dashboard**.
 4. Click the button below **RESTART SERVER**.
 
-<img width="540" height="460" alt="Captura de ecrã 2026-09-04 162847" src="https://github.com/user-attachments/assets/4e9b67ca-2977-4f9e-83ea-1a7710c70f38" />
+<img width="540" height="460" alt="646459797-4e9b67ca-2977-4f9e-83ea-1a7710c70f38" src="https://github.com/user-attachments/assets/2f667c7a-dcdf-4f0f-9b96-22568d7130fa" />
 
 
 ### 3. Install Unified Remote on Android
