@@ -78,6 +78,8 @@ Then:
 
 ## Screenshots
 
-<img width="270" height="600" alt="Zwift Play Unified Remote - Main Controls" src="https://github.com/user-attachments/assets/a628fc24-6c81-49ee-a228-5581a3202ccb" />
-
-<img width="270" height="600" alt="Screenshot_2026-09-05-02-05-29-274_com Relmtech RemotePaid" src="https://github.com/user-attachments/assets/0422d0d2-183a-4f4b-a6d2-4684bb285947" />
+<img width="270" height="600" alt="w1" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" />
+<img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/b9335248-88ff-4027-b606-c5a1e1396549" />
+<img width="270" height="600" alt="w3" src="https://github.com/user-attachments/assets/05c676a8-013c-4aa5-bae9-af4f06abc28c" />
+<img width="270" height="600" alt="w4" src="https://github.com/user-attachments/assets/813d9b14-133b-469f-a0c4-651ff4080f4c" />
+<img width="270" height="600" alt="w5" src="https://github.com/user-attachments/assets/61d23159-cdd2-4c7b-af2a-cae986c00ee5" />
