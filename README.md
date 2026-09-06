@@ -79,10 +79,10 @@ Then:
 ## Screenshots
 
 
-<table align="center">
+<table align="center" border="0">
     <tr>
         <td>
-            <kbd><img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" /></kbd>
+            <kbd><img width="270" height="600" alt="w2" hspace=15 vspace=15 src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" /></kbd>
         </td>
         <td>
             <kbd><img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/b9335248-88ff-4027-b606-c5a1e1396549" /></kbd>
