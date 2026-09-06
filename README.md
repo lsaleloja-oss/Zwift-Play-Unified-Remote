@@ -121,7 +121,7 @@ Then:
             </p>
         </td>
         <td>
-        <!--asdasdasdasd-->
+        <!--PODES ELIINAR ESTA LINHA E COLOCAR MAIS UMA IMAGEM AQUI-->
         </td>
     </tr>
 </table>
