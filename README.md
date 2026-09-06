@@ -82,10 +82,10 @@ Then:
 <table align="center" border="0">
     <tr>
         <td>
-            <img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" />
+            &nbsp;&nbsp;<img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/f2128c22-923b-4017-910d-42df7d65af62" />&nbsp;&nbsp;
         </td>
         <td>
-            <kbd><img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/b9335248-88ff-4027-b606-c5a1e1396549" /></kbd>
+            &nbsp;&nbsp;<img width="270" height="600" alt="w2" src="https://github.com/user-attachments/assets/b9335248-88ff-4027-b606-c5a1e1396549" />&nbsp;&nbsp;
         </td>
     </tr>
     <tr>
