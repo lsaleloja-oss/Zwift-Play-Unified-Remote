@@ -113,12 +113,15 @@ Then:
         </td>
     </tr>
     <tr>
-        <td colspan="2">
+        <td>
             <p align="center">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <img align="center" width="270" height="600" alt="w5" src="https://github.com/user-attachments/assets/61d23159-cdd2-4c7b-af2a-cae986c00ee5" />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
+        </td>
+        <td>
+        <!--asdasdasdasd->
         </td>
     </tr>
 </table>
