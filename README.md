@@ -17,7 +17,7 @@ The project uses the Unified Remote app to turn your mobile device (Android or i
 * ◀ Previous camera view
 * ▶ Next camera view
 
-(A)- Brake/Down mode may not work, or may have bugs! It doesn't work with a touchscreen button; it would need to be a physical button with a scaled cursor! But you can test it! The correct way to do it is to keep your finger pressed for a long time until it decelerates!
+(A)- Brake / Down mode may not work, or may have bugs! It doesn't work with a touchscreen button; it would need to be a physical button with a scaled cursor! But you can test it! The correct way to do it is to keep your finger pressed for a long time until it decelerates!
 
 (B)- Only compatible with bikes or devices with digital/virtual shifters, not mechanical/magnetic ones!
 
