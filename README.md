@@ -1,5 +1,5 @@
 # Zwift Play – Unified Remote
-Zwift Play – Unified Remote is a free, community-created alternative solution that allows users to simulate Zwift Play button controls using a smartphone or tablet as a wireless remote control.
+Zwift Play – Unified Remote is a free, solution that allows users to simulate Zwift Play button controls using a smartphone or tablet as a wireless remote control.
 
 This tool eliminates the need to purchase the official Zwift hardware to perform basic commands in the game.
 
