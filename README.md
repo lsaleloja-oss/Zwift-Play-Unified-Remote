@@ -79,7 +79,7 @@ Then:
 1. If necessary, Restart the Unified Remote app on your Android device.
 2. Open Unified Remote App
 3. Find or connect to **Servers** your Windows Unified Remote server (wireless or bluetooth)
-4. Add **Remote Controls (+) / Others**.
+4. Add **Remote Controls (+) / Other**.
 5. Find **Zwift Play** (It should appear last in the list of devices!).
 6. Open the remote and start using it with Zwift.
 
