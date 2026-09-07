@@ -12,7 +12,7 @@ First public release of a custom **Zwift Play remote for Unified Remote**.
 * ◀ Previous camera view
 * ▶ Next camera view
 
-(***) ### Only for bikes or devices with digital/virtual shifters, not mechanical/magnetic ones!
+(***) Only for bikes or devices with digital/virtual shifters, not mechanical/magnetic ones!
 
 ## Installation
 
