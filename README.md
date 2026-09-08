@@ -127,7 +127,7 @@ Then:
         <td>
             <p align="center">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img align="center" width="270" height="600" alt="w5" src="https://github.com/user-attachments/assets/61d23159-cdd2-4c7b-af2a-cae986c00ee5" />
+                <img align="center" width="270" height="600" alt="w5" src="https://github.com/user-attachments/assets/c85ac248-ff15-467d-9e59-2129074ab2c4" />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
         </td>
