@@ -74,7 +74,7 @@ http://localhost:9510/web/
 
 Install the **Unified Remote Android app**:
 
-`Unified-Remote-Full-v3-16-3.apk`
+`Unified-Remote-Full-v3.24.0.apk`
 
 Then:
 
