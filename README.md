@@ -18,6 +18,12 @@ The project uses the Unified Remote app to turn your mobile device (Android or i
 * (-) Virtual Shifter Down (B)
 * ◀ Previous camera view
 * ▶ Next camera view
+* (M) Menu / End Ride
+* ­(SC) Screen Shot
+* (BT) Paired Devices
+* (WK) Workout Select
+* (G) My Garage
+* (M) Group Messenge
 
 (A)- Brake / Down mode may not work, or may have bugs! It doesn't work with a touchscreen button; it would need to be a physical button with a scaled cursor! But you can test it! The correct way to do it is to keep your finger pressed for a long time until it decelerates!
 
