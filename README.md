@@ -109,14 +109,14 @@ Then:
         <td>
             <p align="center">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="270" height="600" alt="w3" src="https://github.com/user-attachments/assets/05c676a8-013c-4aa5-bae9-af4f06abc28c" />
+                <img width="270" height="600" alt="w3" src="https://github.com/user-attachments/assets/4981eb9a-720b-4b40-b797-a48e18b82943" />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
         </td>
         <td>
             <p align="center">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="270" height="600" alt="w4" src="https://github.com/user-attachments/assets/813d9b14-133b-469f-a0c4-651ff4080f4c" />
+                <img width="270" height="600" alt="w4" src="https://github.com/user-attachments/assets/7c233e40-b880-4e54-9f7f-261242cd4c16" />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
         </td>
