@@ -23,6 +23,17 @@
 <button image="icons/chevron-left.png" scale="fit" text="Câmara -" ontap="camera_prev"/>
 <button image="icons/chevron-right.png" scale="fit" text="Câmara +" ontap="camera_next"/>
 </row>
+<!--   NOVOS - Atalhos Zwift   -->
+<row>
+<button image="icons/menu-end_ride.png" scale="fit" text="MENU ESC" ontap="esc"/>
+<button image="icons/screen-shot.png" scale="fit" text="FOTO F10" ontap="f10"/>
+<button image="icons/paired-devices.png" scale="fit" text="PAIRING A" ontap="a_key"/>
+</row>
+<row>
+<button image="icons/workout-select.png" scale="fit" text="WORKOUT E" ontap="e_key"/>
+<button image="icons/my-garage.png" scale="fit" text="GARAGE T" ontap="t_key"/>
+<button image="icons/house-regular.png" scale="fit" text="GRUPO M" ontap="m_key"/>
+</row>
 </layout>
 
 

@@ -59,3 +59,33 @@ actions.camera_next = function ()
 
     kb.stroke(tostring(camera));
 end
+
+--@help Menu ESC
+actions.esc = function()
+    kb.stroke("esc");
+end
+
+--@help Screenshot F10
+actions.f10 = function()
+    kb.stroke("f10");
+end
+
+--@help Pairing A
+actions.a_key = function()
+    kb.stroke("a");
+end
+
+--@help Workout E
+actions.e_key = function()
+    kb.stroke("e");
+end
+
+--@help Garage T
+actions.t_key = function()
+    kb.stroke("t");
+end
+
+--@help Group Message M
+actions.m_key = function()
+    kb.stroke("m");
+end
