@@ -19,7 +19,7 @@ The project uses the Unified Remote app to turn your mobile device (Android or i
 * ◀ Previous camera view
 * ▶ Next camera view
 * (M) Menu / End Ride
-* ­(SC) Screen Shot
+* ­(SS) Screen Shot
 * (BT) Paired Devices
 * (WK) Workout Select
 * (G) My Garage
