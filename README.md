@@ -12,7 +12,7 @@ The project uses the Unified Remote app to turn your mobile device (Android or i
 ## Features
 
 * ← Turn Left / Turn Right / Up Funtion
-* ↓ U-Turn / Brake / Down (A)
+* ↓ U-Turn / Brake / Down **(A)**
 * ✓ Confirm / Select
 * (+) Virtual Shifter Up (B)
 * (-) Virtual Shifter Down (B)
