@@ -1,6 +1,7 @@
 # Zwift Play – Unified Remote
+<p align="center">
 <img width="112" height="110" alt="icon_hires" src="https://github.com/user-attachments/assets/6e3d388c-6dff-47c2-a724-9c290ff3ee6d" />
-
+</p>
 Zwift Play – Unified Remote is a free, solution that allows users to simulate Zwift Play button controls using a smartphone or tablet as a wireless remote control.
 
 This tool eliminates the need to purchase the official Zwift hardware to perform basic commands in the game.
@@ -73,7 +74,9 @@ http://localhost:9510/web/
 3. Open **Status » Dashboard**.
 4. Click the button below **RESTART SERVER**.
 
+<p align="center">
 <img width="540" height="460" alt="646459797-4e9b67ca-2977-4f9e-83ea-1a7710c70f38" src="https://github.com/user-attachments/assets/2f667c7a-dcdf-4f0f-9b96-22568d7130fa" />
+</p>
 
 
 ### 3. Install Unified Remote on Android
