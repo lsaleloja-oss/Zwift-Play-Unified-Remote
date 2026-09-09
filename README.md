@@ -138,7 +138,9 @@ Then:
             </p>
         </td>
         <td>
+            <p align="center">
         <img width="270" height="600" alt="Screenshot_2026-09-09-05-28-37-416_com Relmtech RemotePaid" src="https://github.com/user-attachments/assets/b17fde99-7114-41b2-942b-f475f8854f87" />
+                </p>
         </td>
     </tr>
 </table>
