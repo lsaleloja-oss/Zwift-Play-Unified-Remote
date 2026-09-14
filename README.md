@@ -2,7 +2,7 @@
 <p align="center">
 <img width="112" height="110" alt="icon_hires" src="https://github.com/user-attachments/assets/6e3d388c-6dff-47c2-a724-9c290ff3ee6d" />
 </p>
-# Zwift Play Controller for Unified Remote - Steering, Virtual Shifting & U-Turn, etc
+# Zwift Play Controller for Unified Remote - Steering, Virtual Shifting & U-Turn, etc.
 
 Zwift Play – Unified Remote is a free, solution that allows users to simulate Zwift Play button controls using a smartphone or tablet as a wireless remote control.
 
