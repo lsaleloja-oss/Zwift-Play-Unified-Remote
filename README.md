@@ -16,10 +16,13 @@ The project uses the Unified Remote app to turn your mobile device (Android or i
 
 * ← Turn Left / Turn Right / Up Funtion
 * ↓ U-Turn / Brake / Down **(A)**
+* ⚡Power UP
 * ✓ Confirm / Select
 * (+) Virtual Shifter Up **(B)**
+* 👍 Ride On
 * (-) Virtual Shifter Down **(B)**
 * ◀ Previous camera view
+* 💣 Ride On Bomb
 * ▶ Next camera view
 * (M) Menu / End Ride
 * ­(SS) Screen Shot
