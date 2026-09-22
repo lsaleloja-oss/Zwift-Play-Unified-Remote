@@ -151,6 +151,7 @@ Note: ***Make sure you are connected to the same internet network as your PC's s
         </td>
         <td>
             <p align="center">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img width="270" height="600" alt="w6" src="https://github.com/user-attachments/assets/d206c4d6-293c-47a2-8b50-e211c74ae25a" />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </p>
