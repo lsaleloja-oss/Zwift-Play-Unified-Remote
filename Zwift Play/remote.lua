@@ -13,18 +13,11 @@ actions.right = function () kb.stroke("right"); end
 --@help Down / U-turn
 actions.down = function ()
     if downHeld then
-        kb.stroke("down");
+        kb.up("down");
         downHeld = false;
     else
-        kb.stroke("down");
+        kb.down("down");
         downHeld = true;
-        -- solta sozinho após 2s para fazer U-turn no Zwift
-        libs.timer.timeout(function()
-            if downHeld then
-               kb.stroke("down");
-               downHeld = false;
-            end
-        end, 2000);
     end
 end
 
