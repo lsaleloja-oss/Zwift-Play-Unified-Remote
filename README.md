@@ -145,13 +145,13 @@ Note: ***Make sure you are connected to the same internet network as your PC's s
         <td>
             <p align="center">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img align="center" width="270" height="600" alt="w5" src="https://github.com/user-attachments/assets/c85ac248-ff15-467d-9e59-2129074ab2c4" />
+                <img align="center" width="270" height="600" alt="w5" src="Screenshot_2026-09-22-07-50-52-771_com Relmtech RemotePaid" src="https://github.com/user-attachments/assets/e838e9f3-dcef-4330-ac3c-84e21b64906d" />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
         </td>
         <td>
             <p align="center">
-        <img width="270" height="600" alt="Screenshot_2026-09-09-05-28-37-416_com Relmtech RemotePaid" src="https://github.com/user-attachments/assets/b17fde99-7114-41b2-942b-f475f8854f87" />
+        <img width="270" height="600" alt="Screenshot_2026-09-09-05-28-37-416_com Relmtech RemotePaid" src="https://github.com/user-attachments/assets/d206c4d6-293c-47a2-8b50-e211c74ae25a" />
                 </p>
         </td>
     </tr>
