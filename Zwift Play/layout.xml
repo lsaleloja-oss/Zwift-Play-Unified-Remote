@@ -1,38 +1,33 @@
 <layout>
-<!-- Direção -->
 <row>
-<button image="icons/arrow-left.png" scale="fit" text="Esquerda" ontap="left"/>
-<button image="icons/arrow-up.png" scale="fit" text="Cima" ontap="up"/>
-<button image="icons/arrow-right.png" scale="fit" text="Direita" ontap="right"/>
-</row>
-
-<!-- Down / U-turn + Confirmar -->
-<row>
-<button image="icons/arrow-rotate-left.png" scale="fit" text="U-Turn" ontap="down"/>
-<button image="icons/circle-check.png" scale="fit" text="Confirmar" ontap="confirm"/>
-</row>
-
-<!-- Mudanças virtuais -->
-<row>
-<button image="icons/shift-down.png" scale="fit" text="Shift Down" ontap="shift_down"/>
-<button image="icons/shift-up.png" scale="fit" text="Shift Up" ontap="shift_up"/>
-</row>
-
-<!-- Câmaras -->
-<row>
-<button image="icons/chevron-left.png" scale="fit" text="Câmara -" ontap="camera_prev"/>
-<button image="icons/chevron-right.png" scale="fit" text="Câmara +" ontap="camera_next"/>
-</row>
-<!--   NOVOS - Atalhos Zwift   -->
-<row>
-<button image="icons/menu-end_ride.png" scale="fit" text="MENU ESC" ontap="esc"/>
-<button image="icons/screen-shot.png" scale="fit" text="FOTO F10" ontap="f10"/>
-<button image="icons/paired-devices.png" scale="fit" text="PAIRING A" ontap="a_key"/>
+<button image="icons/arrow-left.png" scale="fit" text="TURN LEFT" ontap="left"/>
+<button image="icons/arrow-up.png" scale="fit" text="UP - FUNCTION" ontap="up"/>
+<button image="icons/arrow-right.png" scale="fit" text="TURN RIGHT" ontap="right"/>
 </row>
 <row>
-<button image="icons/workout-select.png" scale="fit" text="WORKOUT E" ontap="e_key"/>
-<button image="icons/my-garage.png" scale="fit" text="GARAGE T" ontap="t_key"/>
-<button image="icons/house-regular.png" scale="fit" text="GRUPO M" ontap="m_key"/>
+<button image="icons/arrow-rotate-left.png" scale="fit" text="U-TURN / BRAKE / DOWN" ontap="down"/>
+<button image="icons/bolt.png" scale="fit" text="POWER UP" ontap="powerup"/>
+<button image="icons/circle-check.png" scale="fit" text="CONFIRM / SELECT" ontap="confirm"/>
+</row>
+<row>
+<button image="icons/shift-down.png" scale="fit" text="VIRTUAL SHIFTER -" ontap="shift_down"/>
+<button image="icons/thumbs-up.png" scale="fit" text="RIDE ON" ontap="rideon"/>
+<button image="icons/shift-up.png" scale="fit" text="VIRTUAL SHIFTER +" ontap="shift_up"/>
+</row>
+<row>
+<button image="icons/chevron-left.png" scale="fit" text="CAMERA PREVIOUS" ontap="camera_prev"/>
+<button image="icons/bomb.png" scale="fit" text="RIDE ON BOMB" ontap="rideon_bomb"/>
+<button image="icons/chevron-right.png" scale="fit" text="CAMERA NEXT" ontap="camera_next"/>
+</row>
+<row>
+<button image="icons/menu-end_ride.png" scale="fit" text="MENU / END RIDE" ontap="esc"/>
+<button image="icons/screen-shot.png" scale="fit" text="SCREEN SHOT" ontap="f10"/>
+<button image="icons/paired-devices.png" scale="fit" text="PAIRED DEVICES" ontap="a_key"/>
+</row>
+<row>
+<button image="icons/workout-select.png" scale="fit" text="WORKOUT SELECT" ontap="e_key"/>
+<button image="icons/my-garage.png" scale="fit" text="MY GARAGE" ontap="t_key"/>
+<button image="icons/house-regular.png" scale="fit" text="GROUP MESSAGE" ontap="m_key"/>
 </row>
 </layout>
 
