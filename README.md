@@ -25,7 +25,7 @@ It also works on MacOS in basically the same way! Only the path to the folder is
 Additionally, you need to know that the versions of the "Unified Remote Server iOS" app for PC and the "Unified Remote (In-App Purchases for Full)" app in the "Apple Store" are also different.
 
 ---
-### Features
+### Features:
 
 * ← Turn Left / Turn Right / Up Funtion
 * ↓ U-Turn / Brake / Down **(A)**
@@ -50,7 +50,7 @@ Additionally, you need to know that the versions of the "Unified Remote Server i
 
 **(C)**- It does not work with connected Zwift Play / Zwift Click devices.
 
-## Installation
+## Installation:
 
 ### 1. Install Unified Remote Server on Windows
 
