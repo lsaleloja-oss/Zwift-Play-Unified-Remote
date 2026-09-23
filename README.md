@@ -4,6 +4,7 @@
 </p>
 # Zwift Play Controller for Unified Remote - Steering, Virtual Shifting & U-Turn, and more.
 
+---
 Zwift Play – Unified Remote is a free, solution that allows users to simulate Zwift Play button controls using a smartphone or tablet as a wireless remote control.
 
 🗺️ How Does It Work?
@@ -12,7 +13,7 @@ Zwift Play – Unified Remote is a free, solution that allows users to simulate 
 
 * **Integrations:** Works in both Online and Offline modes, without the need to login into accounts, and without an internet connection!
 
-* **Connection:** The project uses the Unified Remote app to turn your mobile device (Android or iOS) into a custom remote control, connected via Wi-Fi or Bluetooth to your computer (PC) running Zwift.
+* **Connection:** The project uses the Unified Remote app to turn your mobile device (Android or iOS) into a custom remote control, connected via Wi-Fi or Bluetooth to your computer (PC Window) running Zwift.
 
 * **Accessibility:** The convenience of quick access without needing a PC with a keyboard nearby, and ease of identifying Zwift controls, while maintaining focus and effort during your workout.
 
