@@ -24,6 +24,7 @@ It also works on MacOS in basically the same way! Only the path to the folder is
 ```
 Additionally, you need to know that the versions of the "Unified Remote Server iOS" app for PC and the "Unified Remote (In-App Purchases for Full)" app in the "Apple Store" are also different.
 
+---
 ### Features
 
 * ← Turn Left / Turn Right / Up Funtion
