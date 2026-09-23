@@ -16,6 +16,13 @@ Zwift Play – Unified Remote is a free, solution that allows users to simulate 
 
 **Accessibility:** The convenience of quick access without needing a PC with a keyboard nearby, and ease of identifying Zwift controls, while maintaining focus and effort during your workout.
 
+**NOTE.:** 
+It also works on MacOS in basically the same way! Only the path to the folder is different:
+```text
+"/Library/Application Support/Unified Remote/Remotes/Custom"
+```
+In addition, the versions of the "Unified Remote Server iOS" app for PC and the "Unified Remote (In-App Purchases for Full)" app in the Apple Store are also different.
+
 ## Features
 
 * ← Turn Left / Turn Right / Up Funtion
