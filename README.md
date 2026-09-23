@@ -4,7 +4,7 @@
 </p>
 # Zwift Play Controller for Unified Remote - Steering, Virtual Shifting & U-Turn, and many more functions.
 
---
+---
 Zwift Play – Unified Remote is a free, solution that allows users to simulate Zwift Play button controls using a smartphone or tablet as a wireless remote control.
 
 🗺️ How Does It Work?
@@ -24,7 +24,7 @@ It also works on MacOS in basically the same way! Only the path to the folder is
 ```
 Additionally, you need to know that the versions of the "Unified Remote Server iOS" app for PC and the "Unified Remote (In-App Purchases for Full)" app in the "Apple Store" are also different.
 
---
+---
 ### Features:
 
 * ← Turn Left / Turn Right / Up Funtion
